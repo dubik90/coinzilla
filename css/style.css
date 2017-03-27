@@ -1,0 +1,202 @@
+body
+{
+   font-family: 'Open Sans', sans-serif; 
+}
+.test
+{
+/*   width: 20px;*/
+    height: 100px;
+/*    background: orange;*/
+}
+.site-footer
+{
+    background-color: #182740;
+    color:#fff;
+}
+.site-footer a
+{
+    color:#fff;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-size:20px;
+}
+.b-a
+{
+    background-color: #F7931A;
+    width: 170px;
+    height: 60px;
+    border:none;
+    outline:none;
+}
+.b-a:hover
+{
+    background-color: #E37F06;
+}
+.color
+{
+    background-color: #0D3F96;
+}
+.a-giper
+{
+    text-decoration: none;
+    color:grey;
+    font-size: 2.5em;
+}
+.hello-zilla h2
+{
+    font-size: 2.5em;
+}
+.wrift-h1
+{
+    font-size: 2em;
+}
+.main-otstup
+{
+    margin-top: 50px;
+}
+input[type="text"].my-input
+{
+    background-color: #fff;
+    padding: 0 5px;
+    border-bottom: none;
+    color:#222;
+    box-sizing: border-box;
+}
+input[type="text"].my-input:focus
+{
+    border-bottom: none;
+    box-shadow:none;
+}
+.go
+{
+    background: orange;
+    font-weight:bold;
+    border:none;
+    position: absolute;
+    right: 2px;
+    top:5px;
+    padding:6px;
+}
+div.input
+{
+    position: relative;
+}
+.my-ads
+{
+    min-height: 190px;
+    background: #0D3F96;
+    text-align: center;
+    font-size: 2em;
+    position:relative;
+}
+.my-ads button
+{
+    position: absolute;
+    top: 110px;
+    left: 125px;
+    width: 121px;
+    height: 46px;
+    background-color: #F7931A;
+    border:none;
+    outline:none;
+    font-size: 0.7em;
+}
+.my-ads button a
+{
+    color:black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.my-ads button a:hover
+{
+    color:white;
+}
+.my-ads .size-but
+{
+    width: 227px;
+    left: 72px;
+}
+.zilla
+{
+    min-height: 190px;
+    background: url(../img/coinzilla-join-us.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.footer-ablock
+{
+
+}
+.main-art h2
+{
+    margin-bottom: 5px;
+}
+.main-art p
+{
+    margin: 3px 0;
+}
+.utp
+{
+    background-color: #182740;
+    padding: 40px 0;
+    color:#fff;
+    text-align: center;
+}
+.hello-zilla
+{
+     background-image: url(../img/coinzilla-hello.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 5% 50%;
+}
+.my-utp
+{
+    padding: 30px 0;
+}
+.mb100
+{
+    margin-bottom: -100px;
+}
+header
+{
+   background-color: #182740;
+    padding: 30px 0;
+    color:#fff;
+}
+.logo
+{
+    width: 115px;
+}
+.header-right button
+{
+    margin-left:30px;
+    background-color: #182740;
+    padding:10px;
+    border: 1px solid orange;
+}
+.header-right button:hover
+{
+    color:orange;
+}
+.act-orng:hover
+{
+    color:orange;
+}
+.main-nav li
+{
+float:left;
+    padding-left: 0;
+    padding-right: 30px;
+}
+.main-nav
+{
+  margin:0;
+}
+@media screen and (max-width: 600px)
+{
+    .hello-zilla
+    {
+        background-image: none;
+    }
+}
